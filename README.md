@@ -6,7 +6,7 @@
 
 ## Автор:
 
-- Assem Rakhimova: #assrakhimova
+- Assem Rakhimova
 
 ## Требования:
 
